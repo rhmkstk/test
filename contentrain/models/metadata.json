@@ -1,0 +1,12 @@
+[
+  {
+    "name": "test",
+    "description": "thi stes",
+    "modelId": "test",
+    "languages": [
+      "Afar"
+    ],
+    "type": "JSON",
+    "createdBy": "user"
+  }
+]
