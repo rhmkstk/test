@@ -8,5 +8,11 @@
     ],
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "test2",
+    "modelId": "test2",
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
